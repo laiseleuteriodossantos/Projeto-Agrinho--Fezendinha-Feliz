@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0; /* Um fundo claro para a página */
+    overflow: hidden; /* Evita barras de rolagem se o canvas for maior que a viewport */
+}
+
+#game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Você pode adicionar uma borda ou sombra ao contêiner do jogo se desejar */
+    /* border: 2px solid #ccc; */
+    /* box-shadow: 0 0 10px rgba(0,0,0,0.1); */
+}
+
+/* Opcional: Estilo para o próprio canvas p5.js */
+canvas {
+    display: block; /* Remove espaço extra abaixo do canvas */
+}
