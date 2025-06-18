@@ -31,18 +31,3 @@ Após completar um ciclo de colheita e venda, uma tela de celular aparecerá:
 Responda às Perguntas: Leia as perguntas e clique na opção que melhor representa sua resposta. Suas escolhas podem até render um dinheiro extra!
 Continue ou Reinicie: Ao final das perguntas, você verá sua pontuação total e terá a opção de reiniciar o jogo para uma nova rodada.
 Agora você está pronto para começar sua jornada em Minha Fazendinha! Divirta-se cultivando e interagindo!
-
-
-
-
-
-
-
-
-
-
-
-
-Canvas
-
-
